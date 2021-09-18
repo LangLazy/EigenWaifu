@@ -11,6 +11,18 @@
   font-family: 'Roboto Mono'
 }
 
+.navbar {
+  line-height: 1;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: right;
+  background-color: #222324;
+  color: #ffffff;
+  font-family: 'Roboto Mono'
+}
+
 .main {
   padding: 5rem 0;
   flex: 1;
@@ -122,3 +134,5 @@
     flex-direction: column;
   }
 }
+
+
